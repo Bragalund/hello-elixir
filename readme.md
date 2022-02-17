@@ -1,5 +1,8 @@
 # Hello Elixir  
 
+Testing out basic elixir functionality when going through 
+tutorial on https://learn-elixir.com/
+
 ## Prerequisits  
 
  - [Install Erlang/Elixir](https://elixir-lang.org/install.html)
